@@ -1,0 +1,10 @@
+# enviroment variables
+.env
+
+# ide files
+.idea
+.vs-code
+
+# system files
+.DS_Store
+
